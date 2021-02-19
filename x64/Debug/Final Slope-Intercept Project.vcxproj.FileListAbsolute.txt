@@ -1,0 +1,2 @@
+C:\Users\ronal\OneDrive\Documents\C++ projects\Final Slope-Intercept Project\x64\Debug\Final Slope-Intercept Project.exe
+C:\Users\ronal\OneDrive\Documents\C++ projects\Final Slope-Intercept Project\x64\Debug\Final Slope-Intercept Project.pdb

@@ -1,0 +1,5 @@
+﻿  line.cpp
+C:\Users\ronal\OneDrive\Documents\C++ projects\Final Slope-Intercept Project\line.cpp(88,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  point.cpp
+  Generating Code...
+  Final Slope-Intercept Project.vcxproj -> C:\Users\ronal\OneDrive\Documents\C++ projects\Final Slope-Intercept Project\x64\Debug\Final Slope-Intercept Project.exe
